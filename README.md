@@ -16,7 +16,7 @@ To run this project simply go to the root directory of the project & run below g
 
 ---
 
-#### http://localhost:8081/trades/add (POST) : to add single trade
+#### http://localhost:8081/trades/add (POST) : to add a single trade
 
 ![alt text](src/main/resources/templates/AddApi.png)
 
