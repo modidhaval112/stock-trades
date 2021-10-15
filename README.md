@@ -24,4 +24,4 @@ To run this project simply go to the root directory of the project & run below g
 
 #### http://localhost:8081/trades/find (POST) : to find similar trades
 
-![alt text](src/main/resources/templates/findApi.png)
+![alt text](src/main/resources/templates/FindApi.png)
