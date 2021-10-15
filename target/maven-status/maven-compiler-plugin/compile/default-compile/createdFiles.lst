@@ -1,0 +1,5 @@
+com\rbc\controller\TradesController.class
+com\rbc\model\Trades.class
+com\rbc\StocksTradesApplication.class
+com\rbc\repo\TradesRepository.class
+com\rbc\service\TradeService.class
