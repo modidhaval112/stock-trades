@@ -8,7 +8,6 @@ To run this project simply go to the root directory of the project & run below g
 
 ---
 
-## Testing
 ## Endpoints Testing
 
 #### http://localhost:8081/trades/upload (POST) : to upload the provided data file
